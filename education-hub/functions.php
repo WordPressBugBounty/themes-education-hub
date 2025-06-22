@@ -278,7 +278,7 @@ function education_hub_scripts() {
 
 	$min = defined( 'SCRIPT_DEBUG' ) && SCRIPT_DEBUG ? '' : '.min';
 
-	wp_enqueue_style( 'fontawesome', get_template_directory_uri() . '/third-party/font-awesome/css/font-awesome' . $min . '.css', '', '4.7.0' );
+	wp_enqueue_style( 'fontawesome', get_template_directory_uri() . '/third-party/font-awesome/css/all' . $min . '.css', '', '6.7.2' );
 
 	wp_enqueue_style( 'education-hub-google-fonts', education_hub_fonts_url(), array(), null );
 
