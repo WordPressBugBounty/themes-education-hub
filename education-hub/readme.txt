@@ -3,7 +3,7 @@
 Contributors: wenthemes
 Tags: one-column, two-columns, three-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-menu, featured-images, full-width-template, post-formats, sticky-post, translation-ready, theme-options, threaded-comments, education, footer-widgets, blog, custom-logo, editor-style, custom-header, rtl-language-support
 Requires at least: 5.9
-Tested up to: 6.8
+Tested up to: 6.9
 Requires PHP: 5.6
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -21,6 +21,9 @@ Education Hub is a clean and elegant WordPress education theme with simplistic b
 3. Click Activate to use your new theme right away.
 
 == Changelog ==
+
+= 3.0.1 - Jan 06 2026 =
+* WP 6.9 compatibility
 
 = 3.0 - Jun 22 2025 =
 * Add: Tiktok, Bluesky, Tel, X.com, Thread, Etsy, Deviantart, Behance, Bandcamp, Snapchat, Spotify and other social icons
